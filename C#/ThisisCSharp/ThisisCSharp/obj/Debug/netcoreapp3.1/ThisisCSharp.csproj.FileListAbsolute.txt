@@ -1,0 +1,13 @@
+C:\Users\zlzls\Desktop\ThisisCSharp\ThisisCSharp\bin\Debug\netcoreapp3.1\ThisisCSharp.exe
+C:\Users\zlzls\Desktop\ThisisCSharp\ThisisCSharp\bin\Debug\netcoreapp3.1\ThisisCSharp.deps.json
+C:\Users\zlzls\Desktop\ThisisCSharp\ThisisCSharp\bin\Debug\netcoreapp3.1\ThisisCSharp.runtimeconfig.json
+C:\Users\zlzls\Desktop\ThisisCSharp\ThisisCSharp\bin\Debug\netcoreapp3.1\ThisisCSharp.runtimeconfig.dev.json
+C:\Users\zlzls\Desktop\ThisisCSharp\ThisisCSharp\bin\Debug\netcoreapp3.1\ThisisCSharp.dll
+C:\Users\zlzls\Desktop\ThisisCSharp\ThisisCSharp\bin\Debug\netcoreapp3.1\ThisisCSharp.pdb
+C:\Users\zlzls\Desktop\ThisisCSharp\ThisisCSharp\obj\Debug\netcoreapp3.1\ThisisCSharp.csprojAssemblyReference.cache
+C:\Users\zlzls\Desktop\ThisisCSharp\ThisisCSharp\obj\Debug\netcoreapp3.1\ThisisCSharp.AssemblyInfoInputs.cache
+C:\Users\zlzls\Desktop\ThisisCSharp\ThisisCSharp\obj\Debug\netcoreapp3.1\ThisisCSharp.AssemblyInfo.cs
+C:\Users\zlzls\Desktop\ThisisCSharp\ThisisCSharp\obj\Debug\netcoreapp3.1\ThisisCSharp.csproj.CoreCompileInputs.cache
+C:\Users\zlzls\Desktop\ThisisCSharp\ThisisCSharp\obj\Debug\netcoreapp3.1\ThisisCSharp.dll
+C:\Users\zlzls\Desktop\ThisisCSharp\ThisisCSharp\obj\Debug\netcoreapp3.1\ThisisCSharp.pdb
+C:\Users\zlzls\Desktop\ThisisCSharp\ThisisCSharp\obj\Debug\netcoreapp3.1\ThisisCSharp.genruntimeconfig.cache
